@@ -1,10 +1,12 @@
 /****** Main Styling ******/
 
 body {
+	background-color: #335;
+	color: #eaeaea;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	/* color: #222; */
+	/* background-color: #FaFaFa; */
 	text-align: center;
 	line-height: 1.4em;
 }
